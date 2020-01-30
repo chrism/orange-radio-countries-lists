@@ -10,9 +10,8 @@
 |CV  |Cape Verde              |0          |
 |CF  |Central African Republic|5          |
 |TD  |Chad                    |0          |
-|KM  |Comoros                 |0          |
 |CG  |Congo                   |11         |
-|CI  |Cote d'Ivoire           |289        |
+|CI  |Ivory Coast             |289        |
 |DJ  |Djibouti                |4          |
 |CD  |DR Congo                |93         |
 |EG  |Egypt                   |133        |
@@ -41,7 +40,6 @@
 |NG  |Nigeria                 |37         |
 |RE  |Reunion                 |239        |
 |RW  |Rwanda                  |0          |
-|SH  |Saint Helena            |0          |
 |ST  |Sao Tome and Principe   |0          |
 |SN  |Senegal                 |466        |
 |SC  |Seychelles              |0          |
