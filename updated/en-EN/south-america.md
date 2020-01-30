@@ -6,7 +6,6 @@
 |CL  |Chile                      |5          |
 |CO  |Colombia                   |30         |
 |EC  |Ecuador                    |6          |
-|FK  |Falkland Islands (Malvinas)|0          |
 |GF  |French Guiana              |7          |
 |GY  |Guyana                     |0          |
 |PY  |Paraguay                   |0          |
